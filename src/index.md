@@ -8,6 +8,8 @@ Homepage: [https://chyroc.cn](https://chyroc.cn)
 
 - [lark](https://github.com/chyroc/lark)
   - Lark/Feishu 的 Go SDK
+- [go-loader](https://github.com/chyroc/go-loader)
+  - go 在各种数据源之间加载数据
 - [go-ptr](https://github.com/chyroc/go-ptr)
   - go 基本类型值和指针之间相互转换
 - [gorequests](https://github.com/chyroc/gorequests)
@@ -32,6 +34,8 @@ Homepage: [https://chyroc.cn](https://chyroc.cn)
 
 ## Tool
 
+- [anb](https://github.com/chyroc/anb)
+  - 类似于 ansible，进行服务器操作和部署的工具
 - [mdcat](https://github.com/chyroc/mdcat)
   - 将 markdown 文档转成 html 文件，支持 web 和 移动端，meta 信息等。
 - [dropbox-save-url](https://github.com/chyroc/dropbox-save-url)
