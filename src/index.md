@@ -38,8 +38,8 @@ Homepage: [https://chyroc.cn](https://chyroc.cn)
   - 类似于 ansible，进行服务器操作和部署的工具
 - [mdcat](https://github.com/chyroc/mdcat)
   - 将 markdown 文档转成 html 文件，支持 web 和 移动端，meta 信息等。
-- [dropbox-save-url](https://github.com/chyroc/dropbox-save-url)
-  - 离线下载一个 URL 到 Dropbox 空间。
+- [dropbox-cli](https://github.com/chyroc/dropbox-cli)
+  - DropBox 命令行客户端，支持上传、下载、保存URL。
 - [otp-cli](https://github.com/chyroc/otp-cli)
   - 生成 OTP 码命令行工具。
 - [emomit](https://github.com/chyroc/emomit)
